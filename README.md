@@ -1,6 +1,6 @@
 # NHK Car Rental Mobile
 
-Flutter mobile app that consumes the Laravel backend API in `backend/`.
+<!-- Flutter mobile app that consumes the Laravel backend API in `backend/`.
 
 What it includes
 
@@ -9,16 +9,16 @@ What it includes
 - View car details and reviews from `GET /api/cars/{id}` and `GET /api/cars/{id}/reviews`
 - Create bookings with `POST /api/bookings`
 - Cancel bookings from `PATCH /api/bookings/{id}/cancel`
-- Add reviews with `POST /api/cars/{id}/reviews`
+- Add reviews with `POST /api/cars/{id}/reviews` -->
 
 Run it
 
-```bash
+<!-- ```bash
 cd mobile
 flutter pub get
 flutter test
 flutter run --dart-define=API_BASE_URL=http://10.0.2.2:8000/api
-```
+``` -->
 
 Notes
 
